@@ -1,0 +1,145 @@
+07/20/2021 15:18:19 => [Debug] The restore inputs for 'GitHubTrendingTech' have changed. Continuing restore.
+07/20/2021 15:18:19 => [Info] Restoring packages for C:\Users\Raymond Wood\Documents\UiPath\GitHubTopTech\.local\...
+07/20/2021 15:18:19 => [Debug] Restoring packages for .NETFramework,Version=v4.6.1...
+07/20/2021 15:18:19 => [Debug] Resolving conflicts for .NETFramework,Version=v4.6.1...
+07/20/2021 15:18:19 => [Debug] Scanning packages for runtime.json files...
+07/20/2021 15:18:19 => [Debug] Restoring packages for .NETFramework,Version=v4.6.1/win7-x86...
+07/20/2021 15:18:19 => [Debug] Resolving conflicts for .NETFramework,Version=v4.6.1/win7-x86...
+07/20/2021 15:18:19 => [Debug] Checking compatibility of packages on .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for GitHubTrendingTech 1.0.0 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for UiPath.UIAutomation.Activities 21.4.4 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for UiPath.System.Activities 21.4.1 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for UiPath.Excel.Activities 2.10.4 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for UiPath.Mail.Activities 1.10.5 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for UiPath 21.4.25.3292 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for UiPath.Vision 3.0.1 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for UiPath.OCR.Contracts 2.7.3 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for UiPath.OCR.Activities 3.0.0 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for UiPath.Platform 21.4.0 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Newtonsoft.Json 11.0.2 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.IO.Abstractions 3.0.10 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for UiPath.Telemetry.Client 1.3.18 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for CsvHelper 16.0.0 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.AspNet.SignalR.Client 2.4.0 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.AspNetCore.SignalR.Client 3.1.6 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Rest.ClientRuntime 2.3.21 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for SharpZipLib 1.2.0 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.Management.Automation 6.1.7601.17515 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for ClosedXML 0.87.1 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for DocumentFormat.OpenXml 2.5 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.VisualStudio.OLE.Interop 16.7.30328.74 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for NPOI 2.4.1 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Google.Apis.Calendar.v3 1.43.0.1872 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Google.Apis.Gmail.v1 1.43.0.1859 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Google.Apis.PeopleService.v1 1.43.0.1876 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for MailKit 2.10.0 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Exchange.WebServices 2.2 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Extensions.FileSystemGlobbing 5.0.0 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Identity.Client 4.14.0 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.ValueTuple 4.5.0 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.Threading.Tasks.Dataflow 5.0.0 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.CSharp 4.5.0 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.AspNetCore.SignalR.Client.Core 3.1.6 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.AspNetCore.Http.Connections.Client 3.1.6 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Google.Apis 1.43.0 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Google.Apis.Auth 1.43.0 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for MimeKit 2.10.0 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.AspNetCore.SignalR.Protocols.Json 3.1.6 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.AspNetCore.SignalR.Common 3.1.6 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Bcl.AsyncInterfaces 1.1.1 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Extensions.DependencyInjection 3.1.6 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Extensions.Logging 3.1.6 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.Threading.Channels 4.7.1 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.AspNetCore.Http.Connections.Common 3.1.6 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Extensions.Logging.Abstractions 3.1.6 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Extensions.Options 3.1.6 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Google.Apis.Core 1.43.0 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.Data.DataSetExtensions 4.5.0 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.Buffers 4.5.1 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Portable.BouncyCastle 1.8.8 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.AspNetCore.Connections.Abstractions 3.1.6 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.Text.Json 4.7.2 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.Threading.Tasks.Extensions 4.5.4 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Extensions.DependencyInjection.Abstractions 3.1.6 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Extensions.Configuration.Binder 3.1.6 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Extensions.Primitives 3.1.6 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.ComponentModel.Annotations 4.7.0 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.AspNetCore.Http.Features 3.1.6 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.IO.Pipelines 4.7.1 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.Memory 4.5.4 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.Numerics.Vectors 4.5.0 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.Runtime.CompilerServices.Unsafe 4.7.1 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.Text.Encodings.Web 4.7.1 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Extensions.Configuration 3.1.6 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Extensions.Configuration.Abstractions 3.1.6 with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] All packages and projects are compatible with .NETFramework,Version=v4.6.1.
+07/20/2021 15:18:19 => [Debug] Checking compatibility of packages on .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for GitHubTrendingTech 1.0.0 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for UiPath.UIAutomation.Activities 21.4.4 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for UiPath.System.Activities 21.4.1 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for UiPath.Excel.Activities 2.10.4 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for UiPath.Mail.Activities 1.10.5 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for UiPath 21.4.25.3292 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for UiPath.Vision 3.0.1 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for UiPath.OCR.Contracts 2.7.3 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for UiPath.OCR.Activities 3.0.0 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for UiPath.Platform 21.4.0 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Newtonsoft.Json 11.0.2 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.IO.Abstractions 3.0.10 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for UiPath.Telemetry.Client 1.3.18 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for CsvHelper 16.0.0 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.AspNet.SignalR.Client 2.4.0 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.AspNetCore.SignalR.Client 3.1.6 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Rest.ClientRuntime 2.3.21 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for SharpZipLib 1.2.0 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.Management.Automation 6.1.7601.17515 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for ClosedXML 0.87.1 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for DocumentFormat.OpenXml 2.5 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.VisualStudio.OLE.Interop 16.7.30328.74 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for NPOI 2.4.1 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Google.Apis.Calendar.v3 1.43.0.1872 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Google.Apis.Gmail.v1 1.43.0.1859 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Google.Apis.PeopleService.v1 1.43.0.1876 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for MailKit 2.10.0 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Exchange.WebServices 2.2 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Extensions.FileSystemGlobbing 5.0.0 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Identity.Client 4.14.0 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.ValueTuple 4.5.0 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.Threading.Tasks.Dataflow 5.0.0 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.CSharp 4.5.0 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.AspNetCore.SignalR.Client.Core 3.1.6 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.AspNetCore.Http.Connections.Client 3.1.6 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Google.Apis 1.43.0 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Google.Apis.Auth 1.43.0 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for MimeKit 2.10.0 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.AspNetCore.SignalR.Protocols.Json 3.1.6 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.AspNetCore.SignalR.Common 3.1.6 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Bcl.AsyncInterfaces 1.1.1 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Extensions.DependencyInjection 3.1.6 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Extensions.Logging 3.1.6 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.Threading.Channels 4.7.1 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.AspNetCore.Http.Connections.Common 3.1.6 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Extensions.Logging.Abstractions 3.1.6 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Extensions.Options 3.1.6 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Google.Apis.Core 1.43.0 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.Data.DataSetExtensions 4.5.0 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.Buffers 4.5.1 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Portable.BouncyCastle 1.8.8 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.AspNetCore.Connections.Abstractions 3.1.6 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.Text.Json 4.7.2 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.Threading.Tasks.Extensions 4.5.4 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Extensions.DependencyInjection.Abstractions 3.1.6 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Extensions.Configuration.Binder 3.1.6 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Extensions.Primitives 3.1.6 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.ComponentModel.Annotations 4.7.0 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.AspNetCore.Http.Features 3.1.6 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.IO.Pipelines 4.7.1 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.Memory 4.5.4 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.Numerics.Vectors 4.5.0 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.Runtime.CompilerServices.Unsafe 4.7.1 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for System.Text.Encodings.Web 4.7.1 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Extensions.Configuration 3.1.6 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] Checking compatibility for Microsoft.Extensions.Configuration.Abstractions 3.1.6 with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Debug] All packages and projects are compatible with .NETFramework,Version=v4.6.1 (win7-x86).
+07/20/2021 15:18:19 => [Info] Writing assets file to disk. Path: C:\Users\Raymond Wood\Documents\UiPath\GitHubTopTech\.local\AllDependencies.json
+07/20/2021 15:18:19 => [Debug] Writing cache file to disk. Path: C:\Users\Raymond Wood\Documents\UiPath\GitHubTopTech\.local\nuget.cache
